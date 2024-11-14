@@ -1,21 +1,19 @@
+# 🤖 Discord.js v14 Bot Template
 
-Description: Simple Discord.js v14 bot template with MongoDB & prefix commands
+## 🚀 Setup
+⚡ ```npm install discord.js mongoose```
+🔥 ```node index.js```
 
-Setup:
-npm install discord.js mongoose
+## ✨ Features
+👑 Developer commands
+📊 MongoDB integration
+🔄 Ping system
+⚠️ Error handling
 
-Start:
-node index.js
+## 📌 Requirements
+💻 Node.js v16.9.0+
+🗄️ MongoDB database
+🔑 Discord Bot Token
 
-Features:
-- Developer-only commands
-- MongoDB integration
-- Advanced ping system
-- Error handling
-
-Requirements:
-- Node.js v16.9.0+
-- MongoDB database
-- Discord Bot Token
-
-Support: Discord: sadecealbatros
+## 📞 Support
+💬 Discord: sadecealbatros
